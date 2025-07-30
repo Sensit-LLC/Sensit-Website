@@ -3,6 +3,11 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+
+  /* navbar colors */
+  --nav-bg: oklch(52.7% 0.154 150.069);
+  --nav-text: #ffffff;
+  --nav-hover: oklch(39.3% 0.095 152.535);
 }
 
 @theme inline {
@@ -10,12 +15,19 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --color-nav-bg: var(--nav-bg);
+  --color-nav-text: var(--nav-text);
+  --color-nav-hover: var(--nav-hover);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    /* this is the original dark mode codes */
+    /* --background: #0a0a0a;
+    --foreground: #ededed; */
+    /* below is the mirror of the light mode TODO: implement proper dark mode */
+    --background: #ffffff;
+    --foreground: #171717;
   }
 }
 
