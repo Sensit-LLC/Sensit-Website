@@ -9,7 +9,7 @@ export default function Home() {
     <div className="">
       <section className="text-pretty">
         <Image
-          className="m-auto"
+          className="w-full m-auto p-4"
           src={desert_photo}
           alt="Wind Erosion Observation System In Middle Taklimakan Desert"
         />
@@ -24,7 +24,7 @@ export default function Home() {
           <h3 className="text-center text-2xl">New & In Production: H15-LIN Sensor</h3>
           <Image
             className="m-auto border-4 border-black"
-            src={H14}
+            src={H15}
             height={600}
             alt="H14-LIN sensor and conduit"
           />
