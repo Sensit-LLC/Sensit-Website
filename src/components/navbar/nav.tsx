@@ -73,7 +73,7 @@ export default function Nav()
                         </li>
                         <li className="block hover:bg-nav-hover h-14">
                             <Link
-                                href="/documents"
+                                href="/resources"
                                 className="p-4 text-left h-full flex items-center"
                             >
                                 Documents

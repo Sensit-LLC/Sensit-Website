@@ -80,9 +80,9 @@ export default function contact_us() {
                     <ul className="mx-16 flex-col shrink">
                         <li>Sigma Enterprises L.L.C</li>
                         <li>Abu Dhabi Office: P.O. Box 3555, Abu Dhabi, United Arab Emirates</li>
-                        <li>Tel: <a href="tel:+97125511433">+971 2 5511433</a></li>
-                        <li>Fax: <a href="tel:+97125511477">+971 2 5511477</a></li><li>Website: <a href="http://www.sigma-epd.com/English/contact/index.aspx">http://www.sigma-epd.com/English/contact/index.aspx</a></li>
-                        <li>Email: <a href="mailto:marketing@sep.ae">marketing@sep.ae</a></li>
+                        <li>Tel: <Link href="tel:+97125511433">+971 2 5511433</Link></li>
+                        <li>Fax: <Link href="tel:+97125511477">+971 2 5511477</Link></li><li>Website: <Link href="http://www.sigma-epd.com/English/contact/index.aspx">http://www.sigma-epd.com/English/contact/index.aspx</Link></li>
+                        <li>Email: <Link href="mailto:marketing@sep.ae">marketing@sep.ae</Link></li>
                     </ul>
                 </div>
             </div>
@@ -92,9 +92,9 @@ export default function contact_us() {
                     <Image src={encosys} alt="Encosys Logo" className=""></Image>
                     <ul className="mx-16 flex-col shrink">
                         <li>Tae Sik, Seo. President. Encosys Co., Ltd RM 232, 8-Dong, Industrial Complex #555-9 Hogae-Dong, Dongan-Ku, Anyang City, Kyunggi-Do, 431-831, South Korea.</li>
-                        <li>Tel: <a href="tel:+82314791702">+82 31 479 1702</a></li>
-                        <li>Fax: <a href="tel:+82314791704">+82 31 479 1704</a></li>
-                        <li>Email: <a href="mailto:encosys@unitel.co.kr">encosys@unitel.co.kr</a></li>
+                        <li>Tel: <Link href="tel:+82314791702">+82 31 479 1702</Link></li>
+                        <li>Fax: <Link href="tel:+82314791704">+82 31 479 1704</Link></li>
+                        <li>Email: <Link href="mailto:encosys@unitel.co.kr">encosys@unitel.co.kr</Link></li>
                     </ul>
                 </div>
             </div>
@@ -106,10 +106,10 @@ export default function contact_us() {
                         <li>Hisatoshi YOMOGIDA (Mr.) Certificated Weather Forecaster</li>
                         <li>CLIMATEC Inc.</li>
                         <li>Totaku Bldg. 4F 2-54-1, Ikebukuro Toshima-ku Tokyo 171-0014 JAPAN</li>
-                        <li>Tel: <a href="tel:+81339886616">+81-3-3988-6616</a></li>
-                        <li>Fax: <a href="tel:+81339886613">+81-3-3988-6613</a></li>
-                        <li>Website: <a href="http://www.weather.co.jp">http://www.weather.co.jp</a></li>
-                        <li>Email: <a href="mailto:yomogida@weather.co.jp">yomogida@weather.co.jp</a></li>
+                        <li>Tel: <Link href="tel:+81339886616">+81-3-3988-6616</Link></li>
+                        <li>Fax: <Link href="tel:+81339886613">+81-3-3988-6613</Link></li>
+                        <li>Website: <Link href="http://www.weather.co.jp">http://www.weather.co.jp</Link></li>
+                        <li>Email: <Link href="mailto:yomogida@weather.co.jp">yomogida@weather.co.jp</Link></li>
                     </ul>
                 </div>
             </div>
@@ -120,10 +120,10 @@ export default function contact_us() {
                     <ul className="mx-16 flex-col shrink">
                         <li>Truwel Scientific Limited, Beijing Office Beijing Truwel Instrument, Inc.</li>
                         <li>Room 821, Jade Apartment, No. A38 Fuxing Road, Haidian District, Beijing 100039, China</li>
-                        <li>Tel: <a href="tel:+86-10-88202236-801">+86-10-88202236-801</a></li>
-                        <li>Fax: <a href="tel:+86-10-88202336">+86-10-88202336</a></li>
-                        <li>Website: <a href="http://www.truwel.com">http://www.truwel.com</a></li>
-                        <li>Email: <a href="mailto:sales@truwel.com">sales@truwel.com</a> or <a href="mailto:info1@webedaw.com">info1@webedaw.com</a></li>
+                        <li>Tel: <Link href="tel:+86-10-88202236-801">+86-10-88202236-801</Link></li>
+                        <li>Fax: <Link href="tel:+86-10-88202336">+86-10-88202336</Link></li>
+                        <li>Website: <Link href="http://www.truwel.com">http://www.truwel.com</Link></li>
+                        <li>Email: <Link href="mailto:sales@truwel.com">sales@truwel.com</Link> or <Link href="mailto:info1@webedaw.com">info1@webedaw.com</Link></li>
                     </ul>
                 </div>
             </div>
@@ -135,10 +135,10 @@ export default function contact_us() {
                         <li>Reda Rashad, Sales Manager</li>
                         <li>Bacca Trading Co.</li>
                         <li>39 dobat Buildings Saqr qurish, New Maadi Cairo, Egypt</li>
-                        <li>Tel/Fax: <a href="tel:+2027542455">+202 754 2455</a></li>
-                        <li>Mobile: <a href="tel:+20213478090">+2012 347 8090</a></li>
-                        <li>Website: <a href="http://www.bacca-trading.com/ng.com">http://www.bacca-trading.com/ng.com</a></li>
-                        <li>Email: <a href="mailto:reda@baccatrading.com">reda@baccatrading.com</a></li>
+                        <li>Tel/Fax: <Link href="tel:+2027542455">+202 754 2455</Link></li>
+                        <li>Mobile: <Link href="tel:+20213478090">+2012 347 8090</Link></li>
+                        <li>Website: <Link href="http://www.bacca-trading.com/ng.com">http://www.bacca-trading.com/ng.com</Link></li>
+                        <li>Email: <Link href="mailto:reda@baccatrading.com">reda@baccatrading.com</Link></li>
                     </ul>
                 </div>
             </div>
@@ -149,10 +149,10 @@ export default function contact_us() {
                     <ul className="mx-16 flex-col shrink">
                         <li>Rainroot Scientific Limited</li>
                         <li>Room 904, New Material Building, NO.7 Fenghui Mid Road, Haidian District, Beijing, 100094, China</li>
-                        <li>Tel: <a href="tel:+861058937388">+86-10-58937388/55</a></li>
-                        <li>Fax: <a href="tel:+861058937355">+86-10-58937355</a></li>
-                        <li>Website: <a href="http://www.rainroot.com.cn">http://www.rainroot.com.cn</a></li>
-                        <li>Email: <a href="mailto:sales@rainroot.com.cn">sales@rainroot.com.cn</a></li>
+                        <li>Tel: <Link href="tel:+861058937388">+86-10-58937388/55</Link></li>
+                        <li>Fax: <Link href="tel:+861058937355">+86-10-58937355</Link></li>
+                        <li>Website: <Link href="http://www.rainroot.com.cn">http://www.rainroot.com.cn</Link></li>
+                        <li>Email: <Link href="mailto:sales@rainroot.com.cn">sales@rainroot.com.cn</Link></li>
                     </ul>
                 </div>
             </div>
@@ -163,10 +163,10 @@ export default function contact_us() {
                     <ul className="mx-16 flex-col shrink">
                         <li>Beijing BoLun JingWei Tech Dev Co Ltd</li>
                         <li>Room 713, Unit 1, Bldg 3, Zhujiang Mooer INT’L BLDG Beiqing RD Changping DIST Beijing China, 102206</li>
-                        <li> Tel: <a href="tel:+861056187396">+86-10-56187396</a></li>
-                        <li>Fax: <a href="tel:+861082986829">+86-10-8298-6829</a></li>
-                        <li>Website: <a href="http://www.bljw-weather.com">www.bljw-weather.com</a></li>
-                        <li>Email: <a href="mailto:bljw_weather@163.com">bljw_weather@163.com</a></li>
+                        <li> Tel: <Link href="tel:+861056187396">+86-10-56187396</Link></li>
+                        <li>Fax: <Link href="tel:+861082986829">+86-10-8298-6829</Link></li>
+                        <li>Website: <Link href="http://www.bljw-weather.com">www.bljw-weather.com</Link></li>
+                        <li>Email: <Link href="mailto:bljw_weather@163.com">bljw_weather@163.com</Link></li>
                     </ul>
                 </div>
             </div>

@@ -13,15 +13,6 @@ import cr6 from "../../../public/cr6-data-logger.png"
 import Link from "next/link"
 
 import Resource from "@/components/resource/resource"
-import { StaticImageData } from "next/image"
-
-interface Resource_Props {
-    src: StaticImageData | null | undefined;
-    lnk: string | null | undefined;
-    alt: string;
-    width?: number | null | undefined;
-    lnk_txt: string | null | undefined;
-};
 
 export default function resources()
 {

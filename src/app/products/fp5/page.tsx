@@ -32,7 +32,7 @@ export default function fp5()
                         Flat Plate Surface Particle Movement Sensor: Model FP5
                     </h1>
                     <p>
-                        Model FP5 Flat Plate Movement Sensor. The sensor's active surface is 2.54cm in diameter and extremely sensitive. Like the H14-LIN, produces a TTL/CMOS compatible pulse for each particle impact. Like the H14-LIN, the FP5 is well suited for remote use in all environmental conditions including the extreme environment of Antarctica. It comes with 6 meters of stainless steel wrapped conduit shielded cable. There are three wires; +12V (red), ground (black), and a particle count output wire (green). It comes with 600µm and 1,000µm (diameter) glass spheres for testing. A detachable wind diffuser is also supplied to help prevent scouring around the sensor in the sand. It has a 1/4″-20TPI hole in the bottom for mounting. This will fit most camera tripods. A variety of stainless steel hardware is also supplied for attachment including a 1/4″ x 9″ shaft that screws into the base to penetrate the ground keeping the sensor upright and misc. bolts, threaded stock, etc.
+                        Model FP5 Flat Plate Movement Sensor. The sensor&apos;s active surface is 2.54cm in diameter and extremely sensitive. Like the H14-LIN, produces a TTL/CMOS compatible pulse for each particle impact. Like the H14-LIN, the FP5 is well suited for remote use in all environmental conditions including the extreme environment of Antarctica. It comes with 6 meters of stainless steel wrapped conduit shielded cable. There are three wires; +12V (red), ground (black), and a particle count output wire (green). It comes with 600µm and 1,000µm (diameter) glass spheres for testing. A detachable wind diffuser is also supplied to help prevent scouring around the sensor in the sand. It has a 1/4″-20TPI hole in the bottom for mounting. This will fit most camera tripods. A variety of stainless steel hardware is also supplied for attachment including a 1/4″ x 9″ shaft that screws into the base to penetrate the ground keeping the sensor upright and misc. bolts, threaded stock, etc.
                     </p>
                     <br/>
                     <h2 className="text-2xl font-bold">Included</h2>
@@ -97,7 +97,7 @@ export default function fp5()
                     </ul>
                     <br/>
                     <p>
-                        The sensor also has a port in the side of the base where a blue LED can be seen flashing once for every particle impact. This allows you to drop the glass spheres on the sensor's surface from various heights and observe its remarkable sensitivity.
+                        The sensor also has a port in the side of the base where a blue LED can be seen flashing once for every particle impact. This allows you to drop the glass spheres on the sensor&apos;s surface from various heights and observe its remarkable sensitivity.
                     </p>
                 </div>
             </section>
