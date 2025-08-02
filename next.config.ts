@@ -14,7 +14,12 @@ const redirects = async (): Promise<Redirect[]> => [
   },
   {
     source: "/publications-and-documents",
-    destination: "/documents",
+    destination: "/resources",
+    permanent: true,
+  },
+  {
+    source: "/documents",
+    destination: "/resources",
     permanent: true,
   },
 ];
