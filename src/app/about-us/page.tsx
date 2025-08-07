@@ -20,7 +20,7 @@ import rainKE from "../../../public/RainKE.jpg"
 export default function about()
 {
     return(
-        <div className="m-8">
+        <div className="m-auto max-w-3/4">
             <h1 className="text-4xl font-bold">About Us</h1>
             <section className="grid grid-cols-2 justify-center-safe">
                 <Image
@@ -82,7 +82,7 @@ export default function about()
                     className="m-auto">
                 </Image>
                 <p>
-                    In 1993 – 1995 Sensit Company produced a full 4pi sphere multi-channel scanning radiometers called the PARABOLA III (Portable Apparatus for Rapid Acquisition of Bidirectional Landmass Areas) shown below. Long ago the first PARABOLA, produced by NASA was a three-channel scanning radiometer with 12-bit resolution. The Sensit PARABOLA III (complete re-design) upgraded this to 8 channels (near-infrared, PAR, and visible bandwidths), each having a 20-bit resolution of reflectance data. Two of these systems were produced by Sensit and purchased by NASA and JPL for ground truth reflectance calibration of the MISER satellite off-NADIR data. Off-NADIR refers to satellites capable of “looking” in directions other than straight down.
+                    In 1993 - 1995 Sensit Company produced a full 4pi sphere multi-channel scanning radiometers called the PARABOLA III (Portable Apparatus for Rapid Acquisition of Bidirectional Landmass Areas) shown below. Long ago the first PARABOLA, produced by NASA was a three-channel scanning radiometer with 12-bit resolution. The Sensit PARABOLA III (complete re-design) upgraded this to 8 channels (near-infrared, PAR, and visible bandwidths), each having a 20-bit resolution of reflectance data. Two of these systems were produced by Sensit and purchased by NASA and JPL for ground truth reflectance calibration of the MISER satellite off-NADIR data. Off-NADIR refers to satellites capable of “looking” in directions other than straight down.
                 </p>
             </section>
             <section className="grid grid-cols-2 justify-center-safe p-4">

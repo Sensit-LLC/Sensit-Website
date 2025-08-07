@@ -30,6 +30,7 @@ const nextConfig: NextConfig = {
   // nextjs does not support redirects with a static build
   // redirects,
   output: "export",
+  images: { unoptimized: true}
 };
 
 export default nextConfig;
