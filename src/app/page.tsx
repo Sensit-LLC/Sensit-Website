@@ -6,19 +6,19 @@ import H15 from "../../public/H15-LIN.jpg"
 
 export default function Home() {
   return (
-    <div className="">
+    <div className="m-auto max-w-3/4">
       <section className="text-pretty">
+        <h2 className="text-2xl font-bold text-center">
+          Wind Blown Erosion Measurement Solutions
+        </h2>
+        <p className="m-auto max-w-1/2 text-center">
+          Sensit company currently manufacturers two state-of-the-art, remote site erosion sensors as shown below. The model H14-LIN is vertically mounted above the surface of the ground and is used for mass flux and movement monitoring. The model FP5 is an extremely sensitive flat plate surface movement detector providing data the instant movement occurs. When this data is processed with wind speed data, very accurate values for the threshold of movement (wind speed or stress, U*) throughout an erosion event are easily determined.
+        </p>
         <Image
-          className="w-full m-auto p-4"
+          className="m-auto p-4"
           src={desert_photo}
           alt="Wind Erosion Observation System In Middle Taklimakan Desert"
         />
-        <h2 className="text-2xl font-bold m-auto">
-          Wind Blown Erosion Measurement Solutions
-        </h2>
-        <p>
-          Sensit company currently manufacturers two state-of-the-art, remote site erosion sensors as shown below. The model H14-LIN is vertically mounted above the surface of the ground and is used for mass flux and movement monitoring. The model FP5 is an extremely sensitive flat plate surface movement detector providing data the instant movement occurs. When this data is processed with wind speed data, very accurate values for the threshold of movement (wind speed or stress, U*) throughout an erosion event are easily determined.
-        </p>
       </section>
       <section>
           <h3 className="text-center text-2xl">New & In Production: H15-LIN Sensor</h3>

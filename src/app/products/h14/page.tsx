@@ -9,13 +9,13 @@ export default function h14()
 {
     return(
         <div className="m-8">
-            <section className="flex flex-row justify-center">
+            <section className="flex flex-row justify-center m-auto">
                 <Image
                     src={h14_lin}
                     alt="Full H14 Sensor Assembled with Conduit"
                     height={600}
                     objectFit="contain"
-                    className="me-4 m-auto">
+                    className="me-4">
                 </Image>
                 <div className="ms-4 w-auto">
                     <h1 className="text-4xl font-bold">
