@@ -28,7 +28,7 @@ export default function products()
                     </Link>
                 </div>
                 <div className="">
-                    <Link href="/products/fp5" className="text-center">H14-LIN: Eroding Mass Sensor
+                    <Link href="/products/fp5" className="text-center">FP5: Flat Plate Surface Particle Movement Sensor
                         <Image
                         src={fp5}
                         alt="Full FP5 Sensor Kit"
