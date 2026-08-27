@@ -19,9 +19,9 @@ export default function Footer()
                         Products
                     </h4>
                     <div className="flex flex-col">
-                        <Link className="hover:underline"href={"/products/h14"}>H15-LIN</Link>
+                        <Link className="hover:underline"href={"/products/h15"}>H15-LIN</Link>
                         <Link className="hover:underline"href={"/products/fp5"}>FP5</Link>
-                        <Link className="hover:underline"href={"/products/h15"}>H14-LIN</Link>
+                        <Link className="hover:underline"href={"/products/h14"}>H14-LIN</Link>
                     </div>
                 </section>
                 <section>
